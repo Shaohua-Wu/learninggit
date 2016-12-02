@@ -1,2 +1,2 @@
 Git is a version control system, which is very easy to learn.
-Git is free software, I love it.
+Git is a free software, I love it.
